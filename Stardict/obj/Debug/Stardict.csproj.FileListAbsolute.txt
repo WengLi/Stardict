@@ -1,0 +1,9 @@
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\bin\Debug\Stardict.exe.config
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\bin\Debug\Stardict.exe
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\bin\Debug\Stardict.pdb
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\obj\Debug\Stardict.csprojResolveAssemblyReference.cache
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\obj\Debug\Stardict.Properties.Resources.resources
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\obj\Debug\Stardict.csproj.GenerateResource.Cache
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\obj\Debug\Stardict.exe
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\obj\Debug\Stardict.pdb
+c:\users\wengli\documents\visual studio 2012\Projects\Stardict\Stardict\obj\Debug\Stardict.Stardict.resources
